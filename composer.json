@@ -1,0 +1,19 @@
+{
+  "name": "asrafulhaque/upload-image",
+  "description": "This is a package for uploading image",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "asrafulhaq",
+      "email": "devvorb@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
